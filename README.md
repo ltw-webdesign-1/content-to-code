@@ -12,9 +12,9 @@ deliverables: "A GitHub Issue"
 - Using the two PDFs, determine the most semantically appropriate HTML tag for each numbered content
 - There are two PDFs:
   `content-to-code.pdf`
-  — Just the plain content, by itself
+  — Just the plain content, by itself
   `content-to-code-numbered.pdf`
-  — A messier version showing each numbered tag
+  — A messier version showing each numbered tag
 - _Submit your HTML tag choices with explanations._
 
 ---
